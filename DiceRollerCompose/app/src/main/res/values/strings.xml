@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Dice Roller Compose</string>
-
-    <string name="roll">Roll</string>
-    <string name="image_cd">Dice Image</string>
-</resources>
